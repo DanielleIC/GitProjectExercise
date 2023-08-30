@@ -22,6 +22,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
+                    Text("text 2 for feature 2")
                     Greeting("Android")
                 }
             }
