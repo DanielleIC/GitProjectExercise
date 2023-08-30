@@ -23,6 +23,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     Text("text 2 for feature 2")
+                    Text("commit 4 in feature 2")
                     Greeting("Android")
                 }
             }
