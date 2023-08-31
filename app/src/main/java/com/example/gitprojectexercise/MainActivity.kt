@@ -27,6 +27,7 @@ class MainActivity : ComponentActivity() {
                     Text("add new text 4 for feature 3")
                     Text("add new text in mac 1 for feature 3")
                     Text("add new text in mac 2 for feature 3")
+                    Text("add new text in windows 1 for feature 3")
                     Greeting("Android")
                 }
             }
